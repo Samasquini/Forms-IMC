@@ -1,0 +1,23 @@
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\bin\Debug\Atividade forms 1.exe.config
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\bin\Debug\Atividade forms 1.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\bin\Debug\Atividade forms 1.pdb
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\obj\Debug\Atividade_forms_1.Form1.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\obj\Debug\Atividade_forms_1.Properties.Resources.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\obj\Debug\Atividade forms 1.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\Atividade forms 1\Atividade forms 1\obj\Debug\Atividade forms 1.pdb
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\bin\Debug\Atividade forms 1.exe.config
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\bin\Debug\Atividade forms 1.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\bin\Debug\Atividade forms 1.pdb
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\Atividade_forms_1.Form1.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\Atividade_forms_1.Form2.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\Atividade_forms_1.Properties.Resources.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\Atividade forms 1.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade forms 1 - Melhoria\Atividade forms 1\obj\Debug\Atividade forms 1.pdb
